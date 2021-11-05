@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning PHP, Java and 
 - 👯 I’m looking to collaborate with other Developer.
 - 📫 Connect with me: ruben.deak.official@gmail.com
-- 🥅 2020 Goals:
+- 🥅 2021 Goals: I want to be Junior Developer.
 - ⚡ Fun fact: I like to run and 
 
 ### Languages and Tools:
