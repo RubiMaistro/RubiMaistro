@@ -4,11 +4,11 @@
 
 - 👨‍🎓 I'm currently being in University of Debrecen, Faculty of Informatics, Computer Science BSc.
 - 🔭 I’m currently working on my career. 
-- 🌱 I’m currently learning PHP, Java and 
+- 🌱 I’m currently learning PHP, Java and C#.
 - 👯 I’m looking to collaborate with other Developer.
 - 📫 Connect with me: ruben.deak.official@gmail.com
-- 🥅 2021 Goals: I want to be Junior Developer.
-- ⚡ Fun fact: I like to run and 
+- 🥅 2022 Goals: To prepare my dissertation and to get my Computer Science BSc degree.
+- ⚡ Fun fact: I like to run, read and learn new things.
 
 ### Languages and Tools:
 
