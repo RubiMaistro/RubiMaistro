@@ -2,10 +2,10 @@
 
 ## I'm a Student, C# Developer and Runner!
 
-- 👨‍🎓 I'm currently being in University of Debrecen, Faculty of Informatics, Computer Science BSc.
-- 🔭 I’m currently working on my career. 
-- 🌱 I’m currently learning C#, JavaScript, PHP and Java.
-- 👯 I’m looking to collaborate with other Developer.
+- 👨‍🎓 I'm being in University of Debrecen, Faculty of Informatics, Computer Science BSc.
+- 🔭 I'm currently working on my career. 
+- 🌱 I'm currently learning C#, JavaScript, PHP and Java.
+- 👯 I'm looking to collaborate with other Developer.
 - 📫 Connect with me: ruben.deak.official@gmail.com
 - 🥅 2022 Goals: To prepare my dissertation and to get my Computer Science BSc degree.
 - ⚡ Fun fact: I like to run, read and learn new things.
