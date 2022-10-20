@@ -1,8 +1,8 @@
 ### Hi there, I'm Ruben 👋
 
-## I'm a C# Developer and Runner!
+## I'm a Developer and Runner!
 
-- 👨‍🎓 I'm Web Application Developer.
+- 👨‍🎓 I'm a Software Engineer, in the other words a Web Developer.
 - 🔭 I'm currently working on my career. 
 - 🌱 I'm currently learning C#, HTML, CSS and Web Technologies.
 - 👯 I'm looking to collaborate with other Developer.
