@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Runner!
 
-- 👨‍🎓 I'm a Software Engineer.
-- 🔭 I'm currently working on my career. 
+- 👨‍🎓 I'm a Software Engineer and Web Developer.
+- 🔭 I'm currently working on a project, the which is available at this link: https://newb2b.armintrade.hu:2023/products/883. 
 - 🌱 I'm currently learning C#, HTML, CSS and Web Technologies.
 - 👯 I'm looking to collaborate with other Developer.
 - 📫 Connect with me: ruben.deak.official@gmail.com
