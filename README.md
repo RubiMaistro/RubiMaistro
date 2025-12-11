@@ -2,14 +2,9 @@
 
 ## I'm a Developer and Runner!
 
-- 👨‍🎓 I'm a Software Engineer and Web Developer.
-- 🔭 I'm currently working on a project, the which is available at this link: https://newb2b.armintrade.hu:2023/products/883. 
-- 🌱 I'm currently learning C#, HTML, CSS and Web Technologies.
+- 👨‍🎓 I'm a .NET Software Engineer.
 - 👯 I'm looking to collaborate with other Developer.
 - 📫 Connect with me: ruben.deak.official@gmail.com
-- 🏆 Achieved goals: Prepared my dissertation.
-- 🥅 2023 Goals: To develop my knowledge with new technologies by new projects.
-- ⚡ Fun fact: I like to run, read and learn new things.
 
 ### Languages and Tools:
 
